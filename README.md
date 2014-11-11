@@ -58,12 +58,12 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [HackStanford](http://www.hackstanford.net/) | Stanford, CA | 1.9 - 1.11 |
 | [ProtoHack Austin](http://protohack.org/austin-january-10-2015/) | Austin, TX | 1.10 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [PennApps XI](http://2014s.pennapps.com/) | Philadelphia, PA | 2.14 - 2.16 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.21 - 2.22 |
+| [TreeHacks](http://treehacks.com/) | Palo Alto, CA | 2.20 - 2.22 |
 | [SD Hacks](http://sdhacks.io) | San Diego, CA | 2.27 - 3.1 |
 | [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
