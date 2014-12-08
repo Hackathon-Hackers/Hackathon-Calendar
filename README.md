@@ -64,7 +64,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [PennApps XI](http://2014s.pennapps.com/) | Philadelphia, PA | 2.14 - 2.16 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.21 - 2.22 |
 | [TreeHacks](http://treehacks.com/) | Palo Alto, CA | 2.20 - 2.22 |
-| [SD Hacks](http://sdhacks.io) | San Diego, CA | 2.27 - 3.1 |
 | [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
