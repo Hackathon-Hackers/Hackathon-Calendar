@@ -58,6 +58,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [Dragon Hacks](http://hack-dragon.com/) | Philadelphia, PA | 1.10 - 1.11 |
 | [ProtoHack Austin](http://protohack.org/austin-january-10-2015/) | Austin, TX | 1.10 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
