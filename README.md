@@ -69,3 +69,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.11 - 4.13 |
+| [HackYSU](http://www.hackysu.com/) | Youngstown, OH | 4.17 - 4.19 |
