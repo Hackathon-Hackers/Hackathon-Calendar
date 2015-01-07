@@ -13,6 +13,13 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
 | [Audacious Hacks](http://audicious.is/hackdacious) | San Francisco, CA | 1.16 - 1.18 |
 | [IDEA Hacks](http://ideahacks.la) | Los Angeles, CA | 1.23 - 1.25 |
+| [Startup Weekend EuroSeattle](http://www.eventbrite.com/e/startup-weekend-euroseattle-012315-tickets-14094867127) | Seattle, WA | 1.23 - 1.25 |
+| [Hacking Generation Y](http://hackgeny.com) | San Francisco, CA | 1.24 - 1.26 |
+| [HackTech](http://hacktech.io) | Santa Monica, CA | 1.24 - 1.26 |
+| [Fashion/Tech Hackathon](http://fashiontechhackathon.com) | Kent, OH | 1.30 - 2.1 |
+| [HackRice](http://hack.rice.edu) | Houston, TX | 1.30 - 2.1 |
+| [HackSI](http://hacksi.me) | Carbondale, IL | 1.30 - 2.1 |
+| [MedStart](http://tuftmedstart.com) | Boston, MA | 1.30 - 2.1 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [HackCWRU](http://hackcwru.com) | Cleveland, OH | 2.6 - 2.8 |
