@@ -26,6 +26,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackNY](http://hackny.org) | New York, NY | 3.7 - 3.8 |
 | [PearlHacks](http://pearlhacks.com) | Chapel Hill, NC | 3.21 - 3.22 |
 | [Hack Western](http://hackwestern.com) | London, UK | 3.27 - 3.29 |
+| [HackHolyoke](http://hackholyoke.org) | South Hadley, MA | 4.3 - 4.4 |
 | [HackBU](hackathon.hackbu.org) | Binghamton, NY | 3.20 - 3.22 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
