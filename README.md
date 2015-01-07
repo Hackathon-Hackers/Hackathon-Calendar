@@ -22,6 +22,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MedStart](http://tuftmedstart.com) | Boston, MA | 1.30 - 2.1 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
+| [She Innovates](http://cs.pitt.edu/events/other/2154/event.php?id=578) | Pittsburgh, PA | 1.30 - 2.1 |
+| [BattleHack Melbourne](https:2015.battlehack.org/melbourne) | Melbourne, Australia | 1.31 - 2.1 |
 | [HackCWRU](http://hackcwru.com) | Cleveland, OH | 2.6 - 2.8 |
 | [VTHacks](http://vthacks.com) | Blacksburg, VA | 2.6 - 2.8 |
 | [hackCooper](http://hackcooper.com) | New York, NY | 2.14 - 2.16 |
