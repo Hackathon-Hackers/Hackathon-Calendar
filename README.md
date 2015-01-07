@@ -15,7 +15,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VTHacks](http://vthacks.com) | Blacksburg, VA | 2.6 - 2.8 |
 | [hackCooper](http://hackcooper.com) | New York, NY | 2.14 - 2.16 |
 | [PennApps XI](http://2014s.pennapps.com/) | Philadelphia, PA | 2.14 - 2.16 |
-| [McHacks](http://mchacks.io/) | Montreal, Canada | 2.21 - 2.22 |
+| [Hackpoly](http://hackpoly.com) | Pomona, CA | 2.20 - 2.21 |
+| [McHacks](http://mchacks.io/) | Montreal, Canada | 2.20 - 2.22 |
 | [TreeHacks](http://treehacks.com/) | Palo Alto, CA | 2.20 - 2.22 |
 | [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |
