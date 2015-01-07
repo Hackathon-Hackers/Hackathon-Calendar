@@ -9,6 +9,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Dragon Hacks](http://hack-dragon.com/) | Philadelphia, PA | 1.10 - 1.11 |
 | [ProtoHack Austin](http://protohack.org) | Austin, TX | 1.10 |
+| [MHacks](http://mhacks.org) | Ann Arbor, MI | 1.16 - 1.18 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [HackCWRU](http://hackcwru.com) | Cleveland, OH | 2.6 - 2.8 |
