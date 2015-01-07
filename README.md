@@ -12,6 +12,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MHacks](http://mhacks.org) | Ann Arbor, MI | 1.16 - 1.18 |
 | [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
 | [Audacious Hacks](http://audicious.is/hackdacious) | San Francisco, CA | 1.16 - 1.18 |
+| [IDEA Hacks](http://ideahacks.la) | Los Angeles, CA | 1.23 - 1.25 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [HackCWRU](http://hackcwru.com) | Cleveland, OH | 2.6 - 2.8 |
