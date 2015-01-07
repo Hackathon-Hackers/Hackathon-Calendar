@@ -18,6 +18,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hackpoly](http://hackpoly.com) | Pomona, CA | 2.20 - 2.21 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.20 - 2.22 |
 | [TreeHacks](http://treehacks.com/) | Palo Alto, CA | 2.20 - 2.22 |
+| [UHack](http://uhack.us) | Miami, FL | 2.21 - 2.22 | 
 | [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
