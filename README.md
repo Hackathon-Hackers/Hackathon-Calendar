@@ -10,12 +10,13 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Dragon Hacks](http://hack-dragon.com/) | Philadelphia, PA | 1.10 - 1.11 |
 | [ProtoHack Austin](http://protohack.org) | Austin, TX | 1.10 |
 | [MHacks](http://mhacks.org) | Ann Arbor, MI | 1.16 - 1.18 |
+| [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
+| [Audacious Hacks](http://audicious.is/hackdacious) | San Francisco, CA | 1.16 - 1.18 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [HackCWRU](http://hackcwru.com) | Cleveland, OH | 2.6 - 2.8 |
 | [VTHacks](http://vthacks.com) | Blacksburg, VA | 2.6 - 2.8 |
 | [hackCooper](http://hackcooper.com) | New York, NY | 2.14 - 2.16 |
-| [PennApps XI](http://2014s.pennapps.com/) | Philadelphia, PA | 2.14 - 2.16 |
 | [Hackpoly](http://hackpoly.com) | Pomona, CA | 2.20 - 2.21 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.20 - 2.22 |
 | [TreeHacks](http://treehacks.com/) | Palo Alto, CA | 2.20 - 2.22 |
