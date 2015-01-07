@@ -27,6 +27,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CBBhacks](http://cbbhacks.org) | Bruinswick, ME | 2.6 - 2.8 |
 | [HackCWRU](http://hackcwru.com) | Cleveland, OH | 2.6 - 2.8 |
 | [HopHacks](http://hophacks.com/s15/) | Baltimore, MD | 2.6 - 2.8 |
+| [TartanHacks](tartanhacks.com) | Pittsburgh, PA | 2.6 - 2.7 |
 | [VTHacks](http://vthacks.com) | Blacksburg, VA | 2.6 - 2.8 |
 | [hackCooper](http://hackcooper.com) | New York, NY | 2.14 - 2.16 |
 | [Hackpoly](http://hackpoly.com) | Pomona, CA | 2.20 - 2.21 |
