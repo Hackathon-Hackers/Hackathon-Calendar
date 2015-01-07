@@ -28,13 +28,14 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack Western](http://hackwestern.com) | London, UK | 3.27 - 3.29 |
 | [HackBU](hackathon.hackbu.org) | Binghamton, NY | 3.20 - 3.22 |
 | [HackHolyoke](http://hackholyoke.org) | South Hadley, MA | 4.3 - 4.4 |
-| [HackUMass](http://hackumass.com) | Amherst, MA | 4.11 - 4.12 |
-| [HackYSU](http://hackysu.com) | Youngstown, OH | 4.17 - 4.19 |
-| [MadHacks](http://madhacks.org) | Madison, WI | 4.17 - 4.19 |
-| [OwlHacks](https://owlhacks.com) | Philadelphia, PA | 4.17 - 4.19 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.11 - 4.13 |
+| [HackUMass](http://hackumass.com) | Amherst, MA | 4.11 - 4.12 |
 | [Citrus Hack](http://www.citrushack.com/) | Riverside, CA | 4.17 - 4.19 |
-| [HackYSU](http://www.hackysu.com/) | Youngstown, OH | 4.17 - 4.19 |
+| [OwlHacks](https://owlhacks.com) | Philadelphia, PA | 4.17 - 4.19 |
+| [MadHacks](http://madhacks.org) | Madison, WI | 4.17 - 4.19 |
+| [HackYSU](http://hackysu.com) | Youngstown, OH | 4.17 - 4.19 |
+| [BrickHack](http://brickhack.io) | Rochester, NY | 4.18 - 4.19 |
+| [HackRU](http://hackru.org) | New Brunswick, NJ | 4.18 - 4.19 |
