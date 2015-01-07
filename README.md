@@ -23,6 +23,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |
 | [HackTCNJ](http://hacktcnj.com) | Ewing Township, NJ | 2.28 - 3.1 |
 | [Hack Arizona](http://hackarizona.org) | Tucson, AZ | 3.6 - 3.8 |
+| [HackNY](http://hackny.org) | New York, NY | 3.7 - 3.8 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
