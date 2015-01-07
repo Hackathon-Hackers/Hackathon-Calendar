@@ -12,6 +12,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [HackCWRU](http://hackcwru.com)| Cleveland, OH | 2.6 - 2.8 |
+| [VTHacks](http://vthacks.com)| Blacksburg, VA | 2.6 - 2.8 |
 | [PennApps XI](http://2014s.pennapps.com/) | Philadelphia, PA | 2.14 - 2.16 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.21 - 2.22 |
 | [TreeHacks](http://treehacks.com/) | Palo Alto, CA | 2.20 - 2.22 |
