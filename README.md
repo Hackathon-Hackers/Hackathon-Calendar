@@ -28,6 +28,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack Western](http://hackwestern.com) | London, UK | 3.27 - 3.29 |
 | [HackBU](hackathon.hackbu.org) | Binghamton, NY | 3.20 - 3.22 |
 | [HackHolyoke](http://hackholyoke.org) | South Hadley, MA | 4.3 - 4.4 |
+| [HackUMass](http://hackumass.com) | Amherst, MA | 4.11 - 4.12 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
